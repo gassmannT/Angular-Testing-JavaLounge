@@ -6,8 +6,8 @@
 3. Clone this repository
 
 ## Content
-+ [Demo 1: Wallaby.js](/Angular-Testing-JavaLounge/tree/master/Demo01)
-+ [Demo 2: Component](/Angular-Testing-JavaLounge/tree/master/Demo02)
-+ [Demo 3: Service](/Angular-Testing-JavaLounge/tree/master/Demo03)
-+ [Demo 4: e2e Tests](/Angular-Testing-JavaLounge/tree/master/Demo04)
-+ [Slides](/Angular-Testing-JavaLounge/tree/master/Slides)
++ [Demo 1: Wallaby.js](https://github.com/gassmannT/Angular-Testing-JavaLounge/tree/master/Demo01)
++ [Demo 2: Component](https://github.com/gassmannT/Angular-Testing-JavaLounge/tree/master/Demo02)
++ [Demo 3: Service](https://github.com/gassmannT/Angular-Testing-JavaLounge/tree/master/Demo03)
++ [Demo 4: e2e Tests](https://github.com/gassmannT/Angular-Testing-JavaLounge/tree/master/Demo04)
++ [Slides](https://github.com/gassmannT/Angular-Testing-JavaLounge/tree/master/Slides)
