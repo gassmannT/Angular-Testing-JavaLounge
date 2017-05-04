@@ -1,0 +1,30 @@
+<div class="panel panel-primary">
+    <div class="panel-heading">
+        {{pageTitle}}
+    </div>
+    <div class="panel-body">
+        <div class="table-responsive">
+            <table class="table person-table" *ngIf="personList && personList.length">
+                <thead>
+                    <tr>
+                        <th>Firstname</th>
+                        <th>Lastname</th>
+                        <th>Twitter</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="person" 
+                            *ngFor="let person of personList" 
+                            (click)="onEdit(person)">
+                        <td>{{ person.firstname }}</td>
+                        <td>{{ person.lastname }}</td>
+                        <td>
+                            <span *ngIf="person.twitterhandle">@{{person.twitterhandle}}</span>
+                            <span *ngIf="!person.twitterhandle">-</span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

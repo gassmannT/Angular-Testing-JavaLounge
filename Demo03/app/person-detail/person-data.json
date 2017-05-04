@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "firstname": "Thomas",
+        "lastname": "Huber",
+        "twitterhandle": "thomasclaudiushuber"
+    },
+    {
+        "id": 2,
+        "firstname": "Julia",
+        "lastname": "Roberts"
+    },
+    {
+        "id": 3,
+        "firstname": "Thomas",
+        "lastname": "Bandixen",
+        "twitterhandle": "tbandixen"
+    },
+    {
+        "id": 4,
+        "firstname": "Thomas",
+        "lastname": "Gassmann",
+        "twitterhandle": "gassmannT"
+    },
+    {
+        "id": 5,
+        "firstname": "Anna"
+    },
+    {
+        "id": 6,
+        "firstname": "Trivadis",
+        "lastname": "Cloud",
+        "twitterhandle": "trivadiscloud"
+    },
+    {
+        "id": 7,
+        "firstname": "Lara",
+        "lastname": "Croft"
+    }
+]
